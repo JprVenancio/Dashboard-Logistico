@@ -1,16 +1,29 @@
-# React + Vite
+Dashboard Logístico;
+Painel voltado para análise de dados logísticos, com visualização de indicadores operacionais, controle de estoque e acompanhamento de informações estratégicas;
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sobre o projeto;
+Este dashboard foi desenvolvido com foco em organização e análise de dados aplicados ao contexto logístico. O objetivo é facilitar a visualização de informações relevantes para acompanhamento operacional e apoio à tomada de decisão;
 
-Currently, two official plugins are available:
+Funcionalidades;
+- Visualização de indicadores logísticos;
+- Acompanhamento de dados operacionais;
+- Organização de informações de estoque;
+- Apoio à análise de desempenho;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Tecnologias e ferramentas;
+- Power BI;
+- Excel;
+- SQL;
 
-## React Compiler
+Objetivo;
+Demonstrar aplicação prática de análise de dados em contexto logístico, integrando visão operacional, organização de informações e suporte à decisão;
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Diferenciais;
+- Aplicação voltada a cenário real;
+- Foco em leitura de indicadores;
+- Organização visual de dados;
+- Relação entre tecnologia e operação logística;
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Autor;
+João Pedro Rodrigues Venâncio;
+- GitHub:JprVenancio;
