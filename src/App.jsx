@@ -642,9 +642,7 @@ export default function DashboardLogistico() {
           <h1 style={estilos.title}>Painel de Controle Logístico</h1>
 
           <p style={estilos.subtitle}>
-            Esboço inicial de um dashboard para acompanhar entregas, desempenho
-            operacional, distribuição regional, frota, alertas e indicadores
-            estratégicos da logística.
+            Criado por mim João Pedro 
           </p>
 
           <div style={estilos.topActions}>
